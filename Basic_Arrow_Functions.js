@@ -11,5 +11,5 @@ const addAPlusB = (a, b) => a + b
 const addFive = (a, addedNumber) => a + 5
 
 // Deel E
-const createObject = () => ({greeting: "Hallo!"})
+const createObject = () => ({greeting: "Hallo"})
 
